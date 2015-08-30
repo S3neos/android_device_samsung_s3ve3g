@@ -61,3 +61,6 @@ ro.qc.sdk.sensors.gestures=true
 
 # Wi-Fi
 wifi.interface=wlan0
+
+# NFC DT
+ro.nfc.port=I2C
